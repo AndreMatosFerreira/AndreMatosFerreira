@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreMatosFerreira
-- 👀 I’m interested in begin my carrier as a backend developer
+- 👀 I'm interested in starting my career as a backend developer
 - 🌱 I’m currently learning Software Enginner (At university), but my focus as a fisrt tecnology Python
 - 📫 How to reach me? on my email address 1andrematos1@gmail.com
 - 😄 Pronouns: He/him
